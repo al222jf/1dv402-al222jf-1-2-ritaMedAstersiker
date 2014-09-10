@@ -1,0 +1,6 @@
+P:\Git\1.2 ritaMedAsterisker\1.2 ritaMedAsterisker\bin\Debug\1.2 ritaMedAsterisker.exe.config
+P:\Git\1.2 ritaMedAsterisker\1.2 ritaMedAsterisker\bin\Debug\1.2 ritaMedAsterisker.exe
+P:\Git\1.2 ritaMedAsterisker\1.2 ritaMedAsterisker\bin\Debug\1.2 ritaMedAsterisker.pdb
+P:\Git\1.2 ritaMedAsterisker\1.2 ritaMedAsterisker\obj\Debug\1.2 ritaMedAsterisker.csprojResolveAssemblyReference.cache
+P:\Git\1.2 ritaMedAsterisker\1.2 ritaMedAsterisker\obj\Debug\1.2 ritaMedAsterisker.exe
+P:\Git\1.2 ritaMedAsterisker\1.2 ritaMedAsterisker\obj\Debug\1.2 ritaMedAsterisker.pdb
